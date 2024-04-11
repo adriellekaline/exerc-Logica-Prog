@@ -1,0 +1,6 @@
+nome = input ("Digite seu nome:")
+print(nome)
+idade= input ("Digite sua idade:")
+print(idade)
+cidade= input("Digite sua cidade:")
+print("olá", nome, "voce tem",idade,"e mora em", cidade)
